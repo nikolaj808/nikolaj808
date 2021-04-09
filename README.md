@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nikolaj808
+- 👀 I’m interested in all sorts of software development
+- 🌱 I’m currently learning Flutter
